@@ -1,2 +1,25 @@
-# 594cb204-veterinary-animal-care-promp
-Stop wasting hours crafting AI prompts from scratch. The Veterinary &amp; Animal Care Prompt Library gives you 100+ ready-to-use, field-tested prompts tailored for veterinary and animal care workflows.  This library eliminates the guesswork of prompting AI tools like ChatGPT, Claude, or Gemini for veterinary tasks. Instead of generic prompts that produ
+# Veterinary & Animal Care Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gMdR95iT8Is3lm5bud0p0T)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gMdR95iT8Is3lm5bud0p0T)
+
